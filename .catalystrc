@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "17392000000011001",
+      "name": "docs-sync-backend",
+      "domain": {
+        "id": "50026218171",
+        "name": "docs-sync-backend-60040513040.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60040513040",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
